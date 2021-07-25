@@ -86,4 +86,14 @@ svg#play {
   width:700px;
   margin-left: -60px;
 }
+.copy_right_footer {
+  position: fixed;
+  color: #acb3b9;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(34, 34, 34);
+  line-height: 3;
+  text-align: center;
+    font-family: 'Special Elite', cursive;
+}
 
